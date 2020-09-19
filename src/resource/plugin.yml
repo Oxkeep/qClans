@@ -1,0 +1,12 @@
+name: qTeam
+main: network.starplum.QTeam
+version: 1
+author: [Treona, iDevMC]
+description: qTeams, fork of Clan-API
+website: https://github.com/OxKeep/qClans
+
+commands:
+  team:
+    description: Team command
+    usage: /team
+    aliases: [teams]
